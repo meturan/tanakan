@@ -14,7 +14,7 @@ class Person {
     //healthを使って身長・体重のデータを更新する
     void updateHealth(double height, double weight) {
         this.height=update.height;
-        this.weight=update.weight;
+        this.height=update.weight;
     }
 
 }

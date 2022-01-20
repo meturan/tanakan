@@ -9,7 +9,9 @@ public class Main {
 
         // 課題3
         // 身長,体重,BMIをHealthクラスで定義および計算するように変更する
-        Health health = new updateHealth(1.735, 67.0, weight / height / height);
+        double height = 1.735;
+        double weight = 67.0;
+        double bmi = weight / height / height;
 
         // 課題4
         // 名前,年齢,身長,体重を入力する機能

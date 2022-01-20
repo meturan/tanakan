@@ -17,7 +17,7 @@ class Health {
 
     //課題3
     //BMIが標準値であればtrue,標準値でなければfalseを返す
-    public boolean isHealthy(double bmi) {
+    public boolean isHealthy(bmi) {
         if(18.5<=bmi&&bmi<25.0){
             return true;
         }else{
